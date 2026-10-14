@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /booking.html
+Disallow: /confirmation.html
+Disallow: /account.html
+Disallow: /admin.html
+Disallow: /privacy.html
+Disallow: /terms.html
+
+# Replace example.com with the final production domain before launch.
+Sitemap: https://example.com/sitemap.xml
